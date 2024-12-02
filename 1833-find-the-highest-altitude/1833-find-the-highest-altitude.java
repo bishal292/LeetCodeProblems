@@ -3,7 +3,8 @@ class Solution {
         int larAlt = 0,curAlt=0;
         for(int alt:gain){
             curAlt+=alt;
-            if(larAlt<curAlt)larAlt=curAlt;
+            // if(larAlt<curAlt)larAlt=curAlt;
+            larAlt= Math.max(larAlt,curAlt);
         }
         return larAlt;
     }
