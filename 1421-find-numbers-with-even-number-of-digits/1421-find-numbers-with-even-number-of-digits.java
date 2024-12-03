@@ -7,11 +7,20 @@ class Solution {
         }
         return digit;
     }
+    public boolean doesContainEvenDigits(int number){
+        int digit=0;
+        while(number>0){
+            number = number / 10;
+            digit++;
+        }
+        return digit %2 ==0;
+    }
     public int findNumbers(int[] nums) {
         int numCount= 0;
         for(int num:nums){
-            int digitCount=digitCounts(num);
-            if(digitCount % 2 == 0)numCount++;
+            // int digitCount=digitCounts(num);
+            // if(digitCount % 2 == 0)numCount++;
+            if(doesContainEvenDigits(num))numCount++;
         }
         return numCount;
     }
