@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bishal292/LeetCodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/bishal292/LeetCodeProblems/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/bishal292/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
