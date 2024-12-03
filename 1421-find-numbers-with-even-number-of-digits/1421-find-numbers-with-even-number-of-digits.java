@@ -16,11 +16,22 @@ class Solution {
         return digit %2 ==0;
     }
     public int findNumbers(int[] nums) {
+
         int numCount= 0;
-        for(int num:nums){
-            // int digitCount=digitCounts(num);
-            // if(digitCount % 2 == 0)numCount++;
-            if(doesContainEvenDigits(num))numCount++;
+
+        // Simple Approach to solve the Problem:
+
+        // for(int num:nums){
+        //     // int digitCount=digitCounts(num);
+        //     // if(digitCount % 2 == 0)numCount++;
+        //     if(doesContainEvenDigits(num))numCount++;
+        // }
+
+
+        for(int i=0; i<nums.length; i++) {
+            if(((int)(Math.log10(nums[i])) + 1) % 2 == 0) {
+                numCount++;
+            }
         }
         return numCount;
     }
