@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0001-two-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
