@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/bishal292/LeetCodeProblems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
