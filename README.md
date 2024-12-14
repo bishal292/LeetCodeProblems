@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
