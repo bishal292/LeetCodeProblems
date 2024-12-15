@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/bishal292/LeetCodeProblems/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/bishal292/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Breadth-First Search
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
