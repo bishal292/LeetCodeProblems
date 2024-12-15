@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
