@@ -2,7 +2,7 @@ class Solution {
     public void rotate(int[] nums, int k) {
 
         int n= nums.length;
-        k = k % n;
+        k %= n;
         if( n == 1 || k == 0 )return;
 
         // using temp Array to store the result;
@@ -35,7 +35,7 @@ class Solution {
         reverseInRanges(nums, k, n-1);
         
     }
-    public void reverseInRanges(int[] nums , int start, int end){
+    private void reverseInRanges(int[] nums , int start, int end){
         while(start < end){
             nums[start] += nums[end];
             nums[end] = nums[start] - nums[end];
