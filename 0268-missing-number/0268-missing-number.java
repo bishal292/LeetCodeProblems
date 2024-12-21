@@ -6,6 +6,7 @@ class Solution {
             reqSum += i+1;
             sum += nums[i];
         }
+        System.gc();
         return reqSum - sum;
     }
 }
