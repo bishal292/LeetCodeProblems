@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bishal292/LeetCodeProblems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/bishal292/LeetCodeProblems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 ## Heap (Priority Queue)
