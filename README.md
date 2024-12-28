@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bishal292/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishal292/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/bishal292/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 ## Union Find
 |  |
