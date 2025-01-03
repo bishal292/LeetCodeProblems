@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishal292/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/bishal292/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bishal292/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bishal292/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/bishal292/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
