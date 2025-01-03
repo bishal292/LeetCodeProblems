@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bishal292/LeetCodeProblems/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishal292/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
