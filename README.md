@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bishal292/LeetCodeProblems/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/bishal292/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bishal292/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/bishal292/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
