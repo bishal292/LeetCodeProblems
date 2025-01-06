@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/bishal292/LeetCodeProblems/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/bishal292/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bishal292/LeetCodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/bishal292/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bishal292/LeetCodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
 | [2358-number-of-ways-to-split-array](https://github.com/bishal292/LeetCodeProblems/tree/master/2358-number-of-ways-to-split-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bishal292/LeetCodeProblems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bishal292/LeetCodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/bishal292/LeetCodeProblems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
