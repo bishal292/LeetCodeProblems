@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1063-best-sightseeing-pair](https://github.com/bishal292/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
+| [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bishal292/LeetCodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
+| [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bishal292/LeetCodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
