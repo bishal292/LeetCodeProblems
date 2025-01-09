@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bishal292/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/bishal292/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/bishal292/LeetCodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -173,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/bishal292/LeetCodeProblems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/bishal292/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bishal292/LeetCodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String Matching
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bishal292/LeetCodeProblems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/bishal292/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
