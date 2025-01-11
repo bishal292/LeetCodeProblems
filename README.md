@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishal292/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/bishal292/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bishal292/LeetCodeProblems/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
