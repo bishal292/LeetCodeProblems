@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/bishal292/LeetCodeProblems/tree/master/0436-find-right-interval) |
+| [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/bishal292/LeetCodeProblems/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
