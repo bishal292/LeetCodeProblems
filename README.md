@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
+| [2145-grid-game](https://github.com/bishal292/LeetCodeProblems/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bishal292/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bishal292/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bishal292/LeetCodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
+| [2145-grid-game](https://github.com/bishal292/LeetCodeProblems/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/bishal292/LeetCodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/bishal292/LeetCodeProblems/tree/master/1791-richest-customer-wealth) |
+| [2145-grid-game](https://github.com/bishal292/LeetCodeProblems/tree/master/2145-grid-game) |
 ## Hash Table
 |  |
 | ------- |
