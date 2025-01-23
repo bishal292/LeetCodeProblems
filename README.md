@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bishal292/LeetCodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/bishal292/LeetCodeProblems/tree/master/0921-spiral-matrix-iii) |
+| [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/bishal292/LeetCodeProblems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 ## Backtracking
 |  |
 | ------- |
