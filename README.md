@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bishal292/LeetCodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/bishal292/LeetCodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bishal292/LeetCodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Prefix Sum
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bishal292/LeetCodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bishal292/LeetCodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
 | ------- |
