@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/bishal292/LeetCodeProblems/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/bishal292/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bishal292/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bishal292/LeetCodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bishal292/LeetCodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Number Theory
 |  |
