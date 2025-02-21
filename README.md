@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0924-fair-candy-swap](https://github.com/bishal292/LeetCodeProblems/tree/master/0924-fair-candy-swap) |
 | [1160-letter-tile-possibilities](https://github.com/bishal292/LeetCodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/1502-construct-k-palindrome-strings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/bishal292/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/bishal292/LeetCodeProblems/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/bishal292/LeetCodeProblems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/bishal292/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/bishal292/LeetCodeProblems/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/bishal292/LeetCodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/bishal292/LeetCodeProblems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Indexed Tree
 |  |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bishal292/LeetCodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
