@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1622-max-value-of-equation](https://github.com/bishal292/LeetCodeProblems/tree/master/1622-max-value-of-equation) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/bishal292/LeetCodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/bishal292/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bishal292/LeetCodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bishal292/LeetCodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bishal292/LeetCodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/bishal292/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/bishal292/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
 ## Union Find
