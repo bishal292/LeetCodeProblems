@@ -1,9 +1,7 @@
 class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
-        int m = nums1.length, n = nums2.length;
-        int maxId = nums1[m - 1][0] > nums2[n - 1][0] ? nums1[m - 1][0] : nums2[n - 1][0];
+        int m = nums1.length, n = nums2.length , ptr1 = 0, ptr2 = 0;
         List<int[]> res = new ArrayList<>();
-        int ptr1 = 0, ptr2 = 0;
 
         while (ptr1 < m && ptr2 < n) {
 
