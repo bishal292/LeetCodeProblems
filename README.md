@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bishal292/LeetCodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bishal292/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/bishal292/LeetCodeProblems/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/bishal292/LeetCodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/bishal292/LeetCodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
