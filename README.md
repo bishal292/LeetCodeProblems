@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
 | [2107-find-unique-binary-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/bishal292/LeetCodeProblems/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bishal292/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bishal292/LeetCodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bishal292/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/bishal292/LeetCodeProblems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bishal292/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bishal292/LeetCodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2448-count-number-of-bad-pairs) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/bishal292/LeetCodeProblems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/bishal292/LeetCodeProblems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bishal292/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bishal292/LeetCodeProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bishal292/LeetCodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/bishal292/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bishal292/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bishal292/LeetCodeProblems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/bishal292/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/bishal292/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Design
 |  |
 | ------- |
