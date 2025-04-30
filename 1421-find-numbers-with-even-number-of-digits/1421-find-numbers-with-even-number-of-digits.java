@@ -28,6 +28,7 @@ class Solution {
         // }
 
 
+        // Using Logarithms to get the no. of digits in a number.
         for(int i=0; i<nums.length; i++) {
             if(((int)(Math.log10(nums[i])) + 1) % 2 == 0) {
                 numCount++;
