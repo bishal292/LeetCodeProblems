@@ -515,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/bishal292/LeetCodeProblems/tree/master/3548-find-the-count-of-good-integers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/bishal292/LeetCodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
