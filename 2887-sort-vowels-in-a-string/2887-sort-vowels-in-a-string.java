@@ -1,5 +1,4 @@
 class Solution {
-    /*
     public String sortVowels(String s) {
         int[] upper = new int[26];
         int[] lower = new int[26];
@@ -39,34 +38,33 @@ class Solution {
         
         return ans.toString();
     }
-    */
     //  minimizing the code and extra use of memory.
 
-    public String sortVowels(String s){
-        ArrayList<Character> vowels = new ArrayList<>();
-        String vowel = "AEIOUaeiou";
+    // public String sortVowels(String s){
+    //     ArrayList<Character> vowels = new ArrayList<>();
+    //     String vowel = "AEIOUaeiou";
 
-        char[] chArr = s.toCharArray();
+    //     char[] chArr = s.toCharArray();
 
-        for(char ch : chArr){
-            if(vowel.indexOf(ch) != -1){
-                vowels.add(ch);
-            }
-        }
-        if(vowels.size() == 0){
-            return s;
-        }
-        Collections.sort(vowels);
-        int i =0;
-        StringBuilder ans = new StringBuilder();
+    //     for(char ch : chArr){
+    //         if(vowel.indexOf(ch) != -1){
+    //             vowels.add(ch);
+    //         }
+    //     }
+    //     if(vowels.size() == 0){
+    //         return s;
+    //     }
+    //     Collections.sort(vowels);
+    //     int i =0;
+    //     StringBuilder ans = new StringBuilder();
 
-        for(char ch : chArr){
-            if(vowel.indexOf(ch) != -1){
-                ans.append(vowels.get(i++));
-            }else{
-                ans.append(ch);
-            }
-        }
-        return ans.toString();
-    }
+    //     for(char ch : chArr){
+    //         if(vowel.indexOf(ch) != -1){
+    //             ans.append(vowels.get(i++));
+    //         }else{
+    //             ans.append(ch);
+    //         }
+    //     }
+    //     return ans.toString();
+    // }
 }
