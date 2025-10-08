@@ -20,10 +20,13 @@ class Solution {
                 }else{
                     sum += num;
                 }
+
+                if(pieces > k){
+                    start = mid + 1;
+                    break;
+                }
             }
-            if(pieces > k){
-                start = mid + 1;
-            }else{
+            if(pieces <= k){
                 end = mid;
             }
         }
