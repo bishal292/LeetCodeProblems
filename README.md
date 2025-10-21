@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/bishal292/LeetCodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
+| [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/bishal292/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/bishal292/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/bishal292/LeetCodeProblems/tree/master/1170-shortest-common-supersequence) |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
