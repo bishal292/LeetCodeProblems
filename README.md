@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/bishal292/LeetCodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bishal292/LeetCodeProblems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
