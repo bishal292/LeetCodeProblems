@@ -18,7 +18,9 @@ class Solution {
 
 
         // Most Optimized and bit Manupulation
-
+        /*
+        For a perfect power of 2 binary operation on the number itself and number 1 less than the number will always result in 0;
+         */
         return (n > 0 && (n & (n-1)) == 0);
     }
 }
