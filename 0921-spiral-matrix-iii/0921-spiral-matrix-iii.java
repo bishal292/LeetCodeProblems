@@ -38,51 +38,36 @@
 
 
 class Solution {
-
-    int x=0,y=0,pos=0;
-    int dirs[][]={{1,0},{0,-1},{-1,0},{0,1}};
+    int[][] dirs={{0,1},{1,0},{0,-1},{-1,0}};
+    //              R      D      L     U
 
     public int[][] spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
+        int[][] ans = new int[rows * cols][2];
+        ans[0][0] = rStart;
+        ans[0][1] = cStart;
 
-        int[][] ans=new int[rows*cols][2];
+        int index = 0; // to keep track of direction
+        int steps = 1;
+        int elem = 1;
 
-        ans[pos][0]=rStart;
-        ans[pos][1]=cStart;
-
-        pos++;
-
-        x=rStart;
-        y=cStart;
-        
-        int jumps=0;
-
-        while(pos<rows*cols)
-        {
-            jumps++;
-            help(rows,cols,jumps,ans,3);
-            help(rows,cols,jumps,ans,0);
-
-            jumps++;
-
-            help(rows,cols,jumps,ans,1);
-            help(rows,cols,jumps,ans,2);
-        }
-        return ans;
-    }
-
-    public void help(int n,int m,int jump,int[][] ans,int ind)
-    {
-        while(jump--!=0)
-        {
-            x+=dirs[ind][0];
-            y+=dirs[ind][1];
-
-            if(x<n && y<m && x>-1 && y>-1)
-            {
-                ans[pos][0]=x;
-                ans[pos][1]=y;
-                pos++;
+        while(elem < ans.length){// while all the elem is not filled.
+            for(int dirCount = 0;dirCount < 2;dirCount++){ // after each 2 movement steps should be increased.
+                int dr = dirs[index % 4][0];
+                int dc = dirs[index % 4][1];
+                for(int i = 0;i<steps;i++){ // for each direction move the pointer steps time
+                    rStart += dr;
+                    cStart += dc;
+                    if(rStart < rows && rStart >= 0 && cStart < cols && cStart >= 0){
+                        ans[elem][0] = rStart;
+                        ans[elem][1] = cStart;
+                        elem++;
+                    }
+                }
+                index++;// change the direction after each movement in a direction is completed steps time
             }
+            steps++;
         }
+
+        return ans;
     }
 }
