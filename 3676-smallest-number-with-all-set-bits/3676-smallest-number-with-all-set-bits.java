@@ -5,10 +5,16 @@ class Solution {
         // }
         // return n;
 
-        int mask = 1;
-        while(mask <= n){
-            mask <<= 1;
-        }
-        return mask -1;
+        // int mask = 1;
+        // while(mask <= n){
+        //     mask <<= 1;
+        // }
+        // return mask -1;
+
+
+        if ((n & (n + 1)) == 0) return n; // if n is already all 1's
+        int highest = Integer.highestOneBit(n); // like 1000
+        int mask = (highest << 1) - 1;          // make it 1111
+        return mask;
     }
 }
