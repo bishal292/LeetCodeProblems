@@ -39,35 +39,44 @@
 
 class Solution {
     int[][] dirs={{0,1},{1,0},{0,-1},{-1,0}};
+    int x = 0,y = 0;
     //              R      D      L     U
+    int elem = 0;
+
 
     public int[][] spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
         int[][] ans = new int[rows * cols][2];
         ans[0][0] = rStart;
         ans[0][1] = cStart;
+        elem++;
 
         int index = 0; // to keep track of direction
         int steps = 1;
-        int elem = 1;
+        x= rStart;
+        y= cStart;
 
-        while(elem < ans.length){// while all the elem is not filled.
-            for(int dirCount = 0;dirCount < 2;dirCount++){ // after each 2 movement steps should be increased.
-                int dr = dirs[index % 4][0];
-                int dc = dirs[index % 4][1];
-                for(int i = 0;i<steps;i++){ // for each direction move the pointer steps time
-                    rStart += dr;
-                    cStart += dc;
-                    if(rStart < rows && rStart >= 0 && cStart < cols && cStart >= 0){
-                        ans[elem][0] = rStart;
-                        ans[elem][1] = cStart;
-                        elem++;
-                    }
-                }
-                index++;// change the direction after each movement in a direction is completed steps time
-            }
+        while(elem < ans.length){
+            help(rows,cols,ans,steps,0); // Right
+            help(rows,cols,ans,steps,1); // Down
+            steps++;
+
+            help(rows,cols,ans,steps,2); // left 
+            help(rows,cols,ans,steps,3); // up
             steps++;
         }
-
         return ans;
+    }
+    public void help(int m,int n,int[][] ans,int steps, int d){
+        while(steps > 0){
+            x += dirs[d][0];
+            y += dirs[d][1];
+
+            if(x < m && x >= 0 && y < n && y >= 0){
+                ans[elem][0] = x;
+                ans[elem][1] = y;
+                elem++;
+            }
+            steps--;
+        }
     }
 }
