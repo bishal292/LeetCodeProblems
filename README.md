@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1622-max-value-of-equation](https://github.com/bishal292/LeetCodeProblems/tree/master/1622-max-value-of-equation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/1502-construct-k-palindrome-strings) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/bishal292/LeetCodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bishal292/LeetCodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/bishal292/LeetCodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bishal292/LeetCodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/bishal292/LeetCodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/bishal292/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/bishal292/LeetCodeProblems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/bishal292/LeetCodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bishal292/LeetCodeProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bishal292/LeetCodeProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
