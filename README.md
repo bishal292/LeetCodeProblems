@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bishal292/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/bishal292/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0202-happy-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/bishal292/LeetCodeProblems/tree/master/0368-largest-divisible-subset) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Shortest Path
 |  |
@@ -605,6 +608,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/bishal292/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bishal292/LeetCodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
