@@ -1,0 +1,59 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode sortList(ListNode head){
+        if(head == null || head.next == null){
+            return head;
+        }
+        ListNode mid = middleNode(head); // get the Middle Node from the linked list.
+        ListNode left = sortList(head);
+        ListNode right = sortList(mid);
+        return mergeTwoLists(left,right);
+    }
+    public ListNode middleNode(ListNode head) {
+        ListNode fast = head;
+        ListNode slow = null;
+        while (fast != null && fast.next != null) {
+            slow = slow == null ? head : slow.next; /// thil will make slow pointer to point to the Node just behind the MiddleNode.
+            fast = fast.next.next;
+            if (fast == slow) break;
+        }
+        fast = slow.next; /// Points to the exact mid-node.
+        slow.next = null; /// Break the connection of LinkedList from the mid.
+        return fast;
+    }
+
+    public ListNode mergeTwoLists(ListNode head1, ListNode head2) {
+        ListNode head = new ListNode(-1);
+        ListNode ans = head;
+        while (head1 != null && head2 != null) {
+            if (head1.val < head2.val) {
+                head.next = new ListNode(head1.val);
+                head1 = head1.next;
+            } else if (head1.val > head2.val) { /// Here I'm doing an addition checks which is not required just to check and add elements from both list when they are same.
+                head.next = new ListNode(head2.val);
+                head2 = head2.next;
+            } else {
+                head.next = new ListNode(head1.val, new ListNode(head2.val));
+                head1 = head1.next;
+                head2 = head2.next;
+                head = head.next; // as 2 Nodes are added here so head pointer must move 2 steps ahead so.
+            }
+            head = head.next; // At least 1 elements are added in each loop so head must move 2 step at each loop iteration.
+        }
+        // Add the remaining Nodes it is guranted that at max only 1 ListNode would be remaining
+        if (head1 != null) {
+            head.next = head1;
+        }
+        if (head2 != null) head.next = head2;
+        return ans.next;
+    }
+}
