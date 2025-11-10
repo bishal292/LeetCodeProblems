@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/bishal292/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bishal292/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [1622-max-value-of-equation](https://github.com/bishal292/LeetCodeProblems/tree/master/1622-max-value-of-equation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bishal292/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bishal292/LeetCodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
