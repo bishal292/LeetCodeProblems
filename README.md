@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bishal292/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/bishal292/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bishal292/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bishal292/LeetCodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/bishal292/LeetCodeProblems/tree/master/1170-shortest-common-supersequence) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bishal292/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bishal292/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/bishal292/LeetCodeProblems/tree/master/1917-maximum-average-pass-ratio) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bishal292/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bishal292/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bishal292/LeetCodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
