@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/bishal292/LeetCodeProblems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bishal292/LeetCodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/bishal292/LeetCodeProblems/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bishal292/LeetCodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bishal292/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/bishal292/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bishal292/LeetCodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/bishal292/LeetCodeProblems/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bishal292/LeetCodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/bishal292/LeetCodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bishal292/LeetCodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
