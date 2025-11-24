@@ -3,8 +3,8 @@ class Solution {
         int num = 0;
         List<Boolean> ans = new ArrayList<>();
         for(int n : nums){
-            num *= 2;
-            // num = num << 1;
+            // num *= 2;
+            num = num << 1;
             if(n == 1){
                 num += 1;
             }
