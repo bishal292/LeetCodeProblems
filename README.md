@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/bishal292/LeetCodeProblems/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/bishal292/LeetCodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/bishal292/LeetCodeProblems/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bishal292/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/bishal292/LeetCodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/bishal292/LeetCodeProblems/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/0898-transpose-matrix) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/bishal292/LeetCodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/bishal292/LeetCodeProblems/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bishal292/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/bishal292/LeetCodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
+| [0840-magic-squares-in-grid](https://github.com/bishal292/LeetCodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
