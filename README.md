@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/bishal292/LeetCodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/bishal292/LeetCodeProblems/tree/master/0854-making-a-large-island) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bishal292/LeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
