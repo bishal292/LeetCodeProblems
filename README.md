@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bishal292/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/bishal292/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/bishal292/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bishal292/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bishal292/LeetCodeProblems/tree/master/1160-letter-tile-possibilities) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bishal292/LeetCodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/bishal292/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
