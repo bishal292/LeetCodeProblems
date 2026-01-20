@@ -19,8 +19,9 @@ class Solution {
         curIdx = 0;
         ArrayList<TreeNode> list = new ArrayList<>();
         // inorder Traversal;
-        inorder(root,list);
-        return list.get(k-1).val;
+        // inorder(root,list);
+        // return list.get(k-1).val;
+        return inorder(root,k).val;
     }
     public void inorder(TreeNode node,ArrayList<TreeNode> list){
         if(node == null)return;
