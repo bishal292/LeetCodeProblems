@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/bishal292/LeetCodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1983-maximum-population-year](https://github.com/bishal292/LeetCodeProblems/tree/master/1983-maximum-population-year) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bishal292/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/bishal292/LeetCodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/bishal292/LeetCodeProblems/tree/master/2145-grid-game) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bishal292/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bishal292/LeetCodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bishal292/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1622-max-value-of-equation](https://github.com/bishal292/LeetCodeProblems/tree/master/1622-max-value-of-equation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bishal292/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bishal292/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bishal292/LeetCodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/bishal292/LeetCodeProblems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
