@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
 | [1063-best-sightseeing-pair](https://github.com/bishal292/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/bishal292/LeetCodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bishal292/LeetCodeProblems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1372-check-if-it-is-a-good-array](https://github.com/bishal292/LeetCodeProblems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0924-fair-candy-swap](https://github.com/bishal292/LeetCodeProblems/tree/master/0924-fair-candy-swap) |
+| [1200-minimum-absolute-difference](https://github.com/bishal292/LeetCodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bishal292/LeetCodeProblems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bishal292/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
