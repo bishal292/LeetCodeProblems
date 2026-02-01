@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/bishal292/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/bishal292/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bishal292/LeetCodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/bishal292/LeetCodeProblems/tree/master/0792-binary-search) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bishal292/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/bishal292/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bishal292/LeetCodeProblems/tree/master/0436-find-right-interval) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/bishal292/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/bishal292/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bishal292/LeetCodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
