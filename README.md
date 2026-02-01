@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bishal292/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bishal292/LeetCodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/bishal292/LeetCodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bishal292/LeetCodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/bishal292/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/bishal292/LeetCodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bishal292/LeetCodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/bishal292/LeetCodeProblems/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bishal292/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/bishal292/LeetCodeProblems/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/bishal292/LeetCodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
