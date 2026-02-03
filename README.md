@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bishal292/LeetCodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bishal292/LeetCodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bishal292/LeetCodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bishal292/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
