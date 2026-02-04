@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bishal292/LeetCodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bishal292/LeetCodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bishal292/LeetCodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bishal292/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/bishal292/LeetCodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/bishal292/LeetCodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bishal292/LeetCodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3640-trionic-array-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 ## Union Find
 |  |
 | ------- |
