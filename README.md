@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bishal292/LeetCodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/bishal292/LeetCodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bishal292/LeetCodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bishal292/LeetCodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bishal292/LeetCodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bishal292/LeetCodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/bishal292/LeetCodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3719-longest-balanced-subarray-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bishal292/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bishal292/LeetCodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/bishal292/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/bishal292/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Shortest Path
 |  |
 | ------- |
