@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bishal292/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/bishal292/LeetCodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0755-reach-a-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0755-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bishal292/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/bishal292/LeetCodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/bishal292/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/bishal292/LeetCodeProblems/tree/master/1031-add-to-array-form-of-integer) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bishal292/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishal292/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bishal292/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bishal292/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/bishal292/LeetCodeProblems/tree/master/0861-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bishal292/LeetCodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bishal292/LeetCodeProblems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
