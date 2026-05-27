@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/bishal292/LeetCodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bishal292/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/bishal292/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bishal292/LeetCodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/bishal292/LeetCodeProblems/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bishal292/LeetCodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bishal292/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/2887-sort-vowels-in-a-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/bishal292/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/bishal292/LeetCodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/bishal292/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bishal292/LeetCodeProblems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
