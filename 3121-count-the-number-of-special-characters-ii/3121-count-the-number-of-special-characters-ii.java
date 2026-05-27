@@ -4,10 +4,10 @@ class Solution {
 
         int[] lc = new int[26];
         int[] uc = new int[26];
-        for(int i = 0;i<26;i++){
-            lc[i] = -1;
-            uc[i] = -1;
-        }
+
+        Arrays.fill(lc,-1);
+        Arrays.fill(uc,-1);
+
         for(int i = 0;i<word.length();i++){
             char c = word.charAt(i);
             if(Character.isLowerCase(c)){
@@ -17,7 +17,7 @@ class Solution {
             }
         }
         for(int i = 0;i<26;i++){
-            if(lc[i] != -1 && uc[i] != -1 && lc[i] < uc[i])ans++;
+            if(lc[i] != -1 && lc[i] < uc[i])ans++;
         }
         return ans;
     }
