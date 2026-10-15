@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bishal292/LeetCodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/bishal292/LeetCodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
